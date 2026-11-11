@@ -7,8 +7,7 @@
 📍 Kerala, India &nbsp;•&nbsp; 🎓 B.Tech CSE (Final Year) &nbsp;•&nbsp; 💼 Open to placements & internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mridula--jb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridula-jb)
-[![GitHub followers](https://img.shields.io/github/followers/mridu1a?style=for-the-badge&logo=github&color=24292e)](https://github.com/mridu1a)
-![Profile views](https://komarev.com/ghpvc/?username=mridu1a&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
 
 </div>
 
@@ -18,15 +17,15 @@
 
 I'm a final-year CSE student who enjoys turning ideas into working products, from role-based web apps to AI tools that answer from real documents. I like clean backends, snappy frontends, and learning by shipping.
 
-- 🔭 Building full-stack apps with **Flask + Vue 3** and **TypeScript**
-- 🤖 Exploring **LLMs and conversational AI**, especially in healthcare
-- 📊 Comfortable with **EDA and classification** workflows in ML
-- 🎯 Preparing for software engineering roles, both service and product companies
-- 🌱 Always learning: system design, DSA, and better engineering habits
+-  Building full-stack apps with **Flask + Vue 3** and **TypeScript**
+-  Exploring **LLMs and conversational AI**, especially in healthcare
+-  Comfortable with **EDA and classification** workflows in ML
+-  Preparing for software engineering roles, both service and product companies
+-  Always learning: system design, DSA, and better engineering habits
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -47,19 +46,7 @@ I'm a final-year CSE student who enjoys turning ideas into working products, fro
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🎓 [**Placement Portal App**](https://github.com/mridu1a/Placement-Portal-App) | Campus placement platform with separate **Admin, Company and Student** roles, secured by role-based JWT auth. Relational data via SQLAlchemy, Redis caching, and Celery for background jobs. | Flask · Vue 3 · SQLAlchemy · Redis · Celery |
-| 📚 [**InferaV3**](https://github.com/mridu1a/InferaV3) | Self-hosted knowledge workspace that gives **cited answers from your team's documents**, scoped by role. | TypeScript |
-| 🧠 [**Infera**](https://github.com/mridu1a/Infera) | Earlier iteration of the Infera knowledge assistant. | TypeScript |
-| 🅿️ [**Parkit**](https://github.com/mridu1a/Parkit) | Parking management web project. | HTML |
-| 📖 [**book_store**](https://github.com/mridu1a/book_store) | Online book store front end. | HTML |
-
----
 
 ## 📈 GitHub Stats
 
